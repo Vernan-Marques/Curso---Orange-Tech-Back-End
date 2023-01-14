@@ -1,3 +1,4 @@
+package edu.vernan.primeirasemana;
 public class Method {
     public static void main(String[] args) {
         

@@ -1,3 +1,4 @@
+package edu.vernan.segundasemana;
 public class StudentReport {
     public static void main (String[] args) {
 
