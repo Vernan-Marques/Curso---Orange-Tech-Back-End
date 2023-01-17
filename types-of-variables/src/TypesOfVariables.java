@@ -19,5 +19,8 @@ public class TypesOfVariables {
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal;
+
+        // Constant
+        final double PI = 3.14;
     }
 }
