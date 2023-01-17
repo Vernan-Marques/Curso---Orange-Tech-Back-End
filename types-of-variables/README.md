@@ -25,3 +25,10 @@ The standard structure to declaration a variable is:
 2) Types long and float must inform the letters L (long) and F (float) at the end of the variable value.
 
 3) When a short number (short) is changed to an integer value (int) and later converted to short again, a "cast" must be performed for this change to actually occur.
+
+## Constant
+
+Constant are values stored in memory that can't be modified once declared.
+In Java, these values are represented by the reserved word 'final', followed by the type.
+
+By convention, constants are always written in upper case.
