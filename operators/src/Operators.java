@@ -3,7 +3,7 @@ import java.net.Socket;
 import javax.xml.crypto.Data;
 
 public class Operators {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  throws Exception {
         int age = 22;
         double weight = 68.2;
         char gender = 'M';
