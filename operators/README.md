@@ -40,3 +40,10 @@ Relational operators evaluate the relationship between two variables or expressi
 * (<) When we want to check if one variable is less than the other;
 * (<=)  When we want to check if one variable is less than or equal to another;
 * (>=)  When we want to check if one variable is greater than or equal to another;
+
+## Logical Operators
+
+Logical operators represent the feature that allows us to create larger logical expressions from two or more expressions.
+
+* && Logical Operator "AND";
+* || Logical Operator "OR".
