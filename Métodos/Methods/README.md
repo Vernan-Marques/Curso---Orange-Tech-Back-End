@@ -1,18 +1,22 @@
-## Getting Started
+## Methods in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+One class is defined by attributes and methods. We have already seen that attributes are, for the most part, variables of different types and values. Methods, in turn, correspond to functions or subroutines available within our classes.
 
-## Folder Structure
+### Method naming criteria
 
-The workspace contains two folders by default, where:
+* Must be named as verb;
+* Follow the camelCase pattern;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Obs !!!
+There is no concept of global methods in Java. All methods must be defined within a class.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Method Definition Criteria
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### 1) What is the main proposal os the method?
 
-## Dependency Management
+### 2) What type of return is expected after executing the method?
+It will return a value or not.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Obs !!!
+If the method does not return any value, it will be represented by the keyword 'void'.
+
