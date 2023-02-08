@@ -1,4 +1,4 @@
-public class LogicalOperators {
+public class RelationalOperators {
     public static void main(String[] args) throws Exception {
 
         int i1 = 10;
