@@ -1,5 +1,10 @@
 package arrays;
 
+/*
+Create a vector of 6 integers
+and show them in reverse order.
+*/
+
 public class ReverseOrder {
     public static void main(String[] args) {
 
