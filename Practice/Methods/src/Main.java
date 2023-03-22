@@ -13,5 +13,11 @@ public class Main {
         TimeOfDay.getTime(9);
         TimeOfDay.getTime(14);
         TimeOfDay.getTime(23);
+
+        // Exercice Loan
+        System.out.println("Loan");
+        Loan.calculate(1000, Loan.calculateFiveInstallments());
+        Loan.calculate(1000, Loan.calculateThreeInstallments());
+        Loan.calculate(1000, 4);
     }
 }
