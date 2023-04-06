@@ -1,6 +1,6 @@
 ## Exercices And Slide
 
-[Link](https://docs.google.com/presentation/d/1k5syUGWVoY8yJ2cDLHwhrR0kDBUUG5Ay/edit#slide=id.p62)
+[SLIDE](https://docs.google.com/presentation/d/1k5syUGWVoY8yJ2cDLHwhrR0kDBUUG5Ay/edit#slide=id.p62)
 
 [Exercicio 1](https://github.com/tlcdio/OOAula03.1)
 
