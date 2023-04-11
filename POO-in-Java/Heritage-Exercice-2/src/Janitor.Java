@@ -1,0 +1,3 @@
+class Janitor extends Employee {
+
+}
